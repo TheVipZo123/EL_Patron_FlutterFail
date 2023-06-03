@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "261102286149",
+    "project_id": "el-patron-27c75",
+    "storage_bucket": "el-patron-27c75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261102286149:android:59e3e88995f36a67ba7a2c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_el_patron"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDslyQupfvf-CzNmN8VKe9JIQMZ07Kycvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
